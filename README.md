@@ -9,4 +9,4 @@
  5. send command /gmem to get mem about global warming
  7. enjoy :)
 
- 8. by Y.Belov
+  By Y.Belov
