@@ -13,4 +13,4 @@
 
   # Post Scriptum
   My bot is written in Russian, so it will also respond to you in Russian
-    By Y.Belov
+  By Y.Belov
