@@ -7,6 +7,10 @@
  3. Press "Start" button or send /start to bot
  4. send command /gwarm to get answer about global warming in the world
  5. send command /gmem to get mem about global warming
- 7. enjoy :)
+ 6. send commaand /gvideo to get a videos about global warming
+ 7. send command /gmeasure to get a measures for Global Warming
+ 8. enjoy :)
 
-  By Y.Belov
+  ! P.S.:
+  My bot is written in Russian, so it will also respond to you in Russian
+    By Y.Belov
