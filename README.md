@@ -11,6 +11,6 @@
  7. send command /gmeasure to get a measures for Global Warming
  8. enjoy :)
 
-  P.S.:
+  # Post Scriptum
   My bot is written in Russian, so it will also respond to you in Russian
     By Y.Belov
